@@ -1,3 +1,8 @@
+Fork changes:
+---
+* Change gradle version to _2.1.0_
+* Remove google() repo from _build.gradle_
+
 #extension-android-support-v4
 
 OpenFL extension that simply adds Android Support Library (android-support-v4.jar) into your project [for android targets].
